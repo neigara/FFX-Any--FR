@@ -15,8 +15,10 @@ Premier combat contre les **Squamelles**
 * SD
 * Tuer trois autres Squamelles
 
-## EMS    (2'400 PV)
-* SD
+## EMS (2'400 PV)
+<img align="right" src="img/01-ems.png">
+
+* SD 
 * **Auron** : Overdrive (↓, ←, ↑, →, L1, R1, O, X)
 * **Tidus** : Attaque
 * **Tidus** : Attaque
