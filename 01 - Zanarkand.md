@@ -18,24 +18,24 @@ Premier combat contre les **Squamelles**
 ## EMS (2'400 PV)
 <img align="right" src="img/01-ems.png">
 
-* SD 
-* **Auron** : Overdrive (↓, ←, ↑, →, L1, R1, O, X)
-* **Tidus** : Attaque
-* **Tidus** : Attaque
-* **Les deux** : Attaque jusqu'au dernier coup
-* **SPLIT**
+> * SD 
+> * **Auron** : Overdrive (↓, ←, ↑, →, L1, R1, O, X)
+> * **Tidus** : Attaque
+> * **Tidus** : Attaque
+> * **Les deux** : Attaque jusqu'au dernier coup
+> * **SPLIT**
 
 Utilisez la sphere de sauvegarde.
 SD
 
 ## TANKER (1'000 PV)
 
-* **Tidus** : Changer d'arme
-* **Auron** : Attaque sur lui même
-* **Tidus** : Changer d'arme (X2)
-* **Tidus** : Attaquer le tanker
-* **Auton** : Attaquer le tanker
-* **Tidus** : Attaquer le tanker
+> * **Tidus** : Changer d'arme
+> * **Auron** : Attaque sur lui même
+> * **Tidus** : Changer d'arme (X2)
+> * **Tidus** : Attaquer le tanker
+> * **Auton** : Attaquer le tanker
+> * **Tidus** : Attaquer le tanker
 
 CS
 Passer cinématique.
