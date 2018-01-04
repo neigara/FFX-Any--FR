@@ -1,7 +1,7 @@
 # Zanarkand
 
 
-Appyer sur *Select* pour passer la cinématique.
+Appuyer sur *Select* pour passer la cinématique.
 
 Parler aux enfants pour renomer Tidus. \
 Parler aux deux femmes, et aller au centre pour déclancher la scène.\
@@ -16,7 +16,7 @@ Premier combat contre les **Squamelles**
 * Tuer trois autres Squamelles
 
 ## EMS (2'400 PV)
-<img align="right" src="img/01-ems.png">
+<img align="right" src="img/01-ems.png ">
 
 > * SD 
 > * **Auron** : Overdrive (↓, ←, ↑, →, L1, R1, O, X)
