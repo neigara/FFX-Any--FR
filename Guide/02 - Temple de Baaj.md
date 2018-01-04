@@ -16,6 +16,6 @@ CS
 Aller sous l'eau `O + Bas + Droite`ce qui déclanche une nouvelle cinématique.
 
 ## Geosgaeno
-> **Tidus** : Défendre (deux à quatre fois)
+> **Tidus** : Défendre (deux à quatre fois)\
 > Passer la Cinématique
 
